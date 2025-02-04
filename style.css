@@ -198,7 +198,7 @@ input[type="submit"]:hover {
   
   /*home*/
   .home {
-    background-image: url('../Images/background-valhalla.jpg');
+    background-image: url('./Images/background-valhalla.jpg');
     background-size: cover;
     background-position: center;
     position: relative;
